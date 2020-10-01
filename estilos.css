@@ -1,0 +1,92 @@
+body {
+	familia de fuentes: 'Titillium Web', sans-serif;
+}
+
+.titulo1{
+    font-family: 'Titillium + Web', cursive;
+    font-size: 4rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.card1{
+    background-image: linear-gradient(to top, #3633FF, #e8fdff, #CA33FF);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.texto1{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto2{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto3{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto4{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto5{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto6{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto7{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto8{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto9{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto10{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
+
+.texto11{
+	 font-family: 'Titillium + Web', cursive;
+    font-size: 1rem;
+    padding: 1.2rem 1rem;
+    text-transform: uppercase;
+}
